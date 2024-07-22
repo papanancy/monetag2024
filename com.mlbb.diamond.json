@@ -19,6 +19,7 @@
     {
       "ad_status": true,
       "main_ad": "startapp",
+      "one_signal": true,
       "backup_ad": "",
       "startapp_app_id": "206740190",
       "alien_ads_banner_unit_id": "",
