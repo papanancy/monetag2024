@@ -17,7 +17,7 @@
   ],
   "ads": [
     {
-      "ad_status": true,
+      "ad_status": false,
       "main_ad": "startapp",
       "backup_ad": "monetag",
       "one_signal": true,
