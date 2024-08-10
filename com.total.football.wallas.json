@@ -7,7 +7,7 @@
         "show_wallpaper_category": true,
         "show_favorite_button_in_wallpaper_list": true,
         "enable_rtl_mode": false,
-        "enable_exit_dialog": true,
+        "enable_exit_dialog": false,
         "enable_vpn_access": false,
         "enable_dark_mode_as_default_theme": true,
         "enable_more_apps": false,
@@ -15,32 +15,45 @@
         "privacy_policy_url": "https://www.termsfeed.com/live/0289e90c-52fa-4e7f-bd43-f97f2d8d179c"
       }
     ],
-    "ads": [
-      {
-        "ad_status": false,
-        "main_ad": "unity",
-        "backup_ad": "alien_ads",
-        "startapp_app_id": "0",
-        "unity_game_id": "4089993",
-        "unity_banner_placement_id": "banner",
-        "unity_interstitial_placement_id": "video",
-        "interstitial_ad_interval": 2,
-        "native_ad_index_grid2": 4,
-        "native_ad_index_grid3": 9,
-        "native_ad_interval_grid2": 9,
-        "native_ad_interval_grid3": 13,
-        "native_ad_style_wallpaper_list": "large",
-        "native_ad_style_exit_dialog": "medium",
-        "show_banner_ad_home": true,
-        "show_banner_ad_wallpaper_details": true,
-        "show_banner_ad_category_details": true,
-        "show_banner_ad_search": true,
-        "show_interstitial_ad_wallpaper_list": true,
-        "show_interstitial_ad_wallpaper_details": true,
-        "show_native_ad_wallpaper_list": true,
-        "show_native_ad_exit_dialog": true,
-        "show_open_ad_on_app_start": true,
-        "show_open_ad_on_app_resume": true
+    "adsterra": [
+    {
+      "url": "",
+      "interval": 90
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": false,
+      "main_ad": "monetag",
+      "backup_ad": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "ironsource_app_key": "",
+      "ironsource_banner_id": "",
+      "ironsource_interstitial_id": "",
+      "monetag_interstitial_id": "",
+      "monetag_app_open_id": "",
+      "monetag_app_id": "",
+      "monetag_token_id": "",
+      "interstitial_ad_interval": 90,
+      "native_ad_index_grid2": 4,
+      "native_ad_index_grid3": 9,
+      "native_ad_interval_grid2": 9,
+      "native_ad_interval_grid3": 13,
+      "native_ad_style_wallpaper_list": "large",
+      "native_ad_style_exit_dialog": "medium",
+      "show_banner_ad_home": true,
+      "show_banner_ad_wallpaper_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_wallpaper_list": true,
+      "show_interstitial_ad_wallpaper_details": true,
+      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
       }
     ],
     "categories": [
