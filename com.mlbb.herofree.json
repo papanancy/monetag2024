@@ -7,7 +7,7 @@
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": false,
       "enable_more_apps": false,
@@ -17,7 +17,7 @@
   ],
   "adsterra": [
     {
-      "url": "",
+      "url": "https://www.highratecpm.com/k8xb5xn13?key=b17fa01ebd6fce3e700fcdf2c0ef5d0b",
       "interval": 90
     }
   ],
