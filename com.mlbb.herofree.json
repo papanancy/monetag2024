@@ -2,6 +2,7 @@
   "apps": [
     {
       "status": true,
+      "one_signal": true,
       "featured_categories": "wall",
       "show_wallpaper_name": false,
       "show_wallpaper_category": true,
@@ -17,8 +18,8 @@
   ],
   "adsterra": [
     {
-      "url": "https://www.highratecpm.com/k8xb5xn13?key=b17fa01ebd6fce3e700fcdf2c0ef5d0b",
-      "interval": 90
+      "url": "https://www.highratecpm.com/zbizzk3nyk?key=a918a1f43019d0d8443de2afa52a956d",
+      "interval": 2
     }
   ],
   "ads": [
