@@ -8,7 +8,7 @@
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": false,
       "enable_more_apps": false,
@@ -18,8 +18,8 @@
   ],
   "adsterra": [
     {
-      "url": "",
-      "interval": 3
+      "url": "https://www.highratecpm.com/zbizzk3nyk?key=a918a1f43019d0d8443de2afa52a956d",
+      "interval": 2
     }
   ],
   "ads": [
