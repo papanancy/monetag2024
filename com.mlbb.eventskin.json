@@ -2,6 +2,7 @@
   "apps": [
     {
       "status": true,
+      "one_signal": true,
       "featured_categories": "wall",
       "show_wallpaper_name": false,
       "show_wallpaper_category": true,
