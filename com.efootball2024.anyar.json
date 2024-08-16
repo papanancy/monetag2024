@@ -7,7 +7,7 @@
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
+      "enable_exit_dialog": false,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
@@ -15,12 +15,17 @@
       "privacy_policy_url": "https://www.termsfeed.com/live/c734c9fe-6c4e-4e28-b0c2-5dce927ffd4a"
     }
   ],
+  "adsterra": [
+    {
+      "url": "",
+      "interval": 90
+    }
+  ],
   "ads": [
     {
       "ad_status": false,
-      "main_ad": "startapp",
+      "main_ad": "monetag",
       "backup_ad": "monetag",
-      "one_signal": false,
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -35,10 +40,10 @@
       "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
       "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
       "fan_native_unit_id": "YOUR_PLACEMENT_ID",
-      "startapp_app_id": "206125051",
-      "unity_game_id": "",
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
+      "startapp_app_id": "0",
+      "unity_game_id": "5667105",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
       "applovin_banner_unit_id": "0",
       "applovin_interstitial_unit_id": "0",
       "applovin_native_manual_unit_id": "0",
@@ -55,9 +60,9 @@
       "wortise_native_id": "test-native",
       "wortise_app_open_id": "test-app-open",
       "monetag_interstitial_id": "",
-      "monetag_app_open_id":"",
-      "monetag_app_id":"",
-      "monetag_token_id":"",
+      "monetag_app_open_id": "",
+      "monetag_app_id": "",
+      "monetag_token_id": "",
       "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
