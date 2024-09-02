@@ -2,13 +2,13 @@
   "apps": [
     {
       "status": true,
-      "one_signal": false,
+      "one_signal": true,
       "featured_categories": "Wall",
       "show_wallpaper_name": false,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
@@ -18,13 +18,13 @@
   ],
   "adsterra": [
     {
-      "url": "",
+      "url": "https://www.cpmrevenuegate.com/fvxe3qh178?key=594bda0547058b859a010e69aebe0ab4",
       "interval": 2
     }
   ],
   "ads": [
     {
-      "ad_status": false,
+      "ad_status": true,
       "main_ad": "monetag",
       "backup_ad": "0",
       "startapp_app_id": "0",
