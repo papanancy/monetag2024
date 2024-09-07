@@ -18,8 +18,11 @@
   ],
   "adsterra": [
     {
-      "url": "https://xanthydrolveriertendant.com/KHr7Tf9d763499c0a23c4b19dfccdc60cfaed46cb39ba?q={QUERY}",
-      "interval": 2
+      "banner": "",
+      "native": "",
+      "inter": "",
+      "interval_native": 4,
+      "interval_inter": 2
     }
   ],
   "ads": [
