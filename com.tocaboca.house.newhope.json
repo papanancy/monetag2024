@@ -22,7 +22,7 @@
       "native": "",
       "inter": "",
       "interval_native": 4,
-      "interval_inter": 2
+      "interval_inter": 100
     }
   ],
   "ads": [
