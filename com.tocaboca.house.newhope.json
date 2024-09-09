@@ -18,11 +18,46 @@
   ],
   "adsterra": [
     {
-      "banner": "https://www.cpmrevenuegate.com/d14qp0jb3?key=7b57a228760f4b858d0822a91272c32c",
-      "native_ad": "https://www.cpmrevenuegate.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
-      "inter": "https://www.cpmrevenuegate.com/mzu48aydw?key=2cc9306e479eea3e5d54be472b4f2aff",
-      "interval_native": 5,
-      "interval_inter": 3
+      "banner": "",
+      "native": "",
+      "inter": "",
+      "interval_native": 4,
+      "interval_inter": 2
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": false,
+      "main_ad": "adsterra",
+      "backup_ad": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "ironsource_app_key": "",
+      "ironsource_banner_id": "",
+      "ironsource_interstitial_id": "",
+      "monetag_interstitial_id": "",
+      "monetag_app_open_id": "",
+      "monetag_app_id": "",
+      "monetag_token_id": "",
+      "interstitial_ad_interval": 90,
+      "native_ad_index_grid2": 4,
+      "native_ad_index_grid3": 9,
+      "native_ad_interval_grid2": 9,
+      "native_ad_interval_grid3": 13,
+      "native_ad_style_wallpaper_list": "large",
+      "native_ad_style_exit_dialog": "medium",
+      "show_banner_ad_home": true,
+      "show_banner_ad_wallpaper_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_wallpaper_list": true,
+      "show_interstitial_ad_wallpaper_details": true,
+      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
     }
   ],
   "categories": [
