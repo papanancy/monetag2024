@@ -2,13 +2,13 @@
   "apps": [
     {
       "status": true,
-      "one_signal": false,
+      "one_signal": true,
       "featured_categories": "Wall",
       "show_wallpaper_name": false,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
@@ -22,7 +22,7 @@
       "native_ad": "https://www.cpmrevenuegate.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
       "inter": "https://www.cpmrevenuegate.com/mzu48aydw?key=2cc9306e479eea3e5d54be472b4f2aff",
       "interval_native": 5,
-      "interval_inter": 2
+      "interval_inter": 3
     }
   ],
   "categories": [
