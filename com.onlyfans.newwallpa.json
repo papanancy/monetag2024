@@ -25,7 +25,7 @@
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "monetag",
+      "main_ad": "adsterra",
       "backup_ad": "0",
       "startapp_app_id": "0",
       "unity_game_id": "",
@@ -38,7 +38,7 @@
       "monetag_app_open_id": "",
       "monetag_app_id": "",
       "monetag_token_id": "",
-      "interstitial_ad_interval": 90,
+      "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
