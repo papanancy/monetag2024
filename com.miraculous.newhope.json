@@ -20,7 +20,7 @@
     {
       "banner": "",
       "native": "",
-      "inter": "",
+      "inter": "https://js.onclckmn.com/static/onclicka.js",
       "interval_native": 5,
       "interval_inter": 2
     }
