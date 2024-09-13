@@ -18,8 +18,11 @@
   ],
   "adsterra": [
     {
-      "url": "",
-      "interval": 2
+      "banner": "",
+      "native": "",
+      "inter": "",
+      "interval_native": 5,
+      "interval_inter": 2
     }
   ],
   "ads": [
