@@ -18,9 +18,9 @@
   ],
   "adsterra": [
     {
-      "banner": "",
-      "native": "",
-      "inter": "",
+      "banner": "<script async src="https://js.onclckmn.com/static/onclicka.js" data-admpid="223569"></script>",
+      "native": "<script async src="https://js.onclckmn.com/static/onclicka.js" data-admpid="223569"></script>",
+      "inter": "<script async src="https://js.onclckmn.com/static/onclicka.js" data-admpid="223569"></script>",
       "interval_native": 5,
       "interval_inter": 2
     }
