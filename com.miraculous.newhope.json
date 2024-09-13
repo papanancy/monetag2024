@@ -18,9 +18,9 @@
   ],
   "adsterra": [
     {
-      "banner": "<script async src="https://js.onclckmn.com",
-      "native": "<script async src="https://js.onclckmn.com",
-      "inter": "<script async src="https://js.onclckmn.com",
+      "banner": "https://js.onclckmn.com",
+      "native": "https://js.onclckmn.com",
+      "inter": "https://js.onclckmn.com",
       "interval_native": 5,
       "interval_inter": 2
     }
@@ -28,7 +28,7 @@
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "monetag",
+      "main_ad": "adsterra",
       "backup_ad": "0",
       "startapp_app_id": "0",
       "unity_game_id": "",
