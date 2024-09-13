@@ -18,9 +18,9 @@
   ],
   "adsterra": [
     {
-      "banner": "https://js.onclckmn.com",
-      "native": "https://js.onclckmn.com",
-      "inter": "https://js.onclckmn.com",
+      "banner": "",
+      "native": "",
+      "inter": "",
       "interval_native": 5,
       "interval_inter": 2
     }
