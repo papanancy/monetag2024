@@ -18,8 +18,11 @@
   ],
   "adsterra": [
     {
-      "url": "https://www.cpmrevenuegate.com/qutfrfpkgv?key=b2d6ec62b866a1adc35ef9947adb39a1",
-      "interval": 2
+      "banner": "",
+      "native": "",
+      "inter": "",
+      "interval_native": 5,
+      "interval_inter": 2
     }
   ],
   "ads": [
