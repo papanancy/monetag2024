@@ -2,13 +2,13 @@
   "apps": [
     {
       "status": true,
-      "one_signal": false,
+      "one_signal": true,
       "featured_categories": "Wall",
       "show_wallpaper_name": false,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
@@ -19,16 +19,16 @@
   "adsterra": [
     {
       "banner": "",
-      "native": "",
-      "inter": "",
-      "interval_native": 4,
-      "interval_inter": 100
+      "native": "https://www.cpmrevenuegate.com/d14qp0jb3?key=7b57a228760f4b858d0822a91272c32c",
+      "inter": "https://www.cpmrevenuegate.com/qutfrfpkgv?key=b2d6ec62b866a1adc35ef9947adb39a1",
+      "interval_native": 5,
+      "interval_inter": 2
     }
   ],
   "ads": [
     {
-      "ad_status": false,
-      "main_ad": "monetag",
+      "ad_status": true,
+      "main_ad": "adsterra",
       "backup_ad": "0",
       "startapp_app_id": "0",
       "unity_game_id": "",
@@ -41,7 +41,7 @@
       "monetag_app_open_id": "",
       "monetag_app_id": "",
       "monetag_token_id": "",
-      "interstitial_ad_interval": 90,
+      "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
