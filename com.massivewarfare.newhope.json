@@ -1,0 +1,1498 @@
+{
+  "apps": [
+    {
+      "status": true,
+      "one_signal": false,
+      "featured_categories": "Wall",
+      "show_wallpaper_name": false,
+      "show_wallpaper_category": true,
+      "show_favorite_button_in_wallpaper_list": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": false,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": true,
+      "enable_more_apps": false,
+      "redirect_url": "",
+      "privacy_policy_url": "https://www.termsfeed.com/live/1d3a08db-deb7-42af-b4c6-37943cb425c1"
+    }
+  ],
+  "adsterra": [
+    {
+      "banner": "",
+      "native": "https://www.cpmrevenuegate.com/d14qp0jb3?key=7b57a228760f4b858d0822a91272c32c",
+      "inter": "https://www.cpmrevenuegate.com/qutfrfpkgv?key=b2d6ec62b866a1adc35ef9947adb39a1",
+      "interval_native": 5,
+      "interval_inter": 2
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": false,
+      "main_ad": "monetag",
+      "backup_ad": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "ironsource_app_key": "",
+      "ironsource_banner_id": "",
+      "ironsource_interstitial_id": "",
+      "monetag_interstitial_id": "",
+      "monetag_app_open_id": "",
+      "monetag_app_id": "",
+      "monetag_token_id": "",
+      "interstitial_ad_interval": 2,
+      "native_ad_index_grid2": 4,
+      "native_ad_index_grid3": 9,
+      "native_ad_interval_grid2": 9,
+      "native_ad_interval_grid3": 13,
+      "native_ad_style_wallpaper_list": "large",
+      "native_ad_style_exit_dialog": "medium",
+      "show_banner_ad_home": true,
+      "show_banner_ad_wallpaper_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_wallpaper_list": true,
+      "show_interstitial_ad_wallpaper_details": true,
+      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Wall",
+      "category_image": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/07.jpg"
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "category_name": "Wall",
+      "wallpaper_name": "01",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/01.jpg"
+    },
+    {
+      "wallpaper_id": 2,
+      "category_name": "Wall",
+      "wallpaper_name": "02",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/02.jpg"
+    },
+    {
+      "wallpaper_id": 3,
+      "category_name": "Wall",
+      "wallpaper_name": "03",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/03.jpg"
+    },
+    {
+      "wallpaper_id": 4,
+      "category_name": "Wall",
+      "wallpaper_name": "04",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/04.jpg"
+    },
+    {
+      "wallpaper_id": 5,
+      "category_name": "Wall",
+      "wallpaper_name": "05",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/05.jpg"
+    },
+    {
+      "wallpaper_id": 6,
+      "category_name": "Wall",
+      "wallpaper_name": "06",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/06.jpg"
+    },
+    {
+      "wallpaper_id": 7,
+      "category_name": "Wall",
+      "wallpaper_name": "07",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/07.jpg"
+    },
+    {
+      "wallpaper_id": 8,
+      "category_name": "Wall",
+      "wallpaper_name": "08",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/08.jpg"
+    },
+    {
+      "wallpaper_id": 9,
+      "category_name": "Wall",
+      "wallpaper_name": "09",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/09.jpg"
+    },
+    {
+      "wallpaper_id": 10,
+      "category_name": "Wall",
+      "wallpaper_name": "10",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/10.jpg"
+    },
+    {
+      "wallpaper_id": 11,
+      "category_name": "Wall",
+      "wallpaper_name": "11",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/11.jpg"
+    },
+    {
+      "wallpaper_id": 12,
+      "category_name": "Wall",
+      "wallpaper_name": "12",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/12.jpg"
+    },
+    {
+      "wallpaper_id": 13,
+      "category_name": "Wall",
+      "wallpaper_name": "13",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/13.jpg"
+    },
+    {
+      "wallpaper_id": 14,
+      "category_name": "Wall",
+      "wallpaper_name": "14",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/14.jpg"
+    },
+    {
+      "wallpaper_id": 15,
+      "category_name": "Wall",
+      "wallpaper_name": "15",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/15.jpg"
+    },
+    {
+      "wallpaper_id": 16,
+      "category_name": "Wall",
+      "wallpaper_name": "16",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/16.jpg"
+    },
+    {
+      "wallpaper_id": 17,
+      "category_name": "Wall",
+      "wallpaper_name": "17",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/17.jpg"
+    },
+    {
+      "wallpaper_id": 18,
+      "category_name": "Wall",
+      "wallpaper_name": "18",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/18.jpg"
+    },
+    {
+      "wallpaper_id": 19,
+      "category_name": "Wall",
+      "wallpaper_name": "19",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/19.jpg"
+    },
+    {
+      "wallpaper_id": 20,
+      "category_name": "Wall",
+      "wallpaper_name": "20",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/20.jpg"
+    },
+    {
+      "wallpaper_id": 21,
+      "category_name": "Wall",
+      "wallpaper_name": "21",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/21.jpg"
+    },
+    {
+      "wallpaper_id": 22,
+      "category_name": "Wall",
+      "wallpaper_name": "22",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/22.jpg"
+    },
+    {
+      "wallpaper_id": 23,
+      "category_name": "Wall",
+      "wallpaper_name": "23",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/23.jpg"
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Wall",
+      "wallpaper_name": "24",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/24.jpg"
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Wall",
+      "wallpaper_name": "25",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/25.jpg"
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Wall",
+      "wallpaper_name": "26",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/26.jpg"
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Wall",
+      "wallpaper_name": "27",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/27.jpg"
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Wall",
+      "wallpaper_name": "28",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/28.jpg"
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Wall",
+      "wallpaper_name": "29",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/29.jpg"
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Wall",
+      "wallpaper_name": "30",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/30.jpg"
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Wall",
+      "wallpaper_name": "31",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/31.jpg"
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Wall",
+      "wallpaper_name": "32",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/32.jpg"
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Wall",
+      "wallpaper_name": "33",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/33.jpg"
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Wall",
+      "wallpaper_name": "34",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/34.jpg"
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Wall",
+      "wallpaper_name": "35",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/35.jpg"
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Wall",
+      "wallpaper_name": "36",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/36.jpg"
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Wall",
+      "wallpaper_name": "37",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/37.jpg"
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Wall",
+      "wallpaper_name": "38",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/38.jpg"
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Wall",
+      "wallpaper_name": "39",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/39.jpg"
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Wall",
+      "wallpaper_name": "40",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/40.jpg"
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "Wall",
+      "wallpaper_name": "41",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/41.jpg"
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Wall",
+      "wallpaper_name": "42",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/42.jpg"
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "Wall",
+      "wallpaper_name": "43",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/43.jpg"
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "Wall",
+      "wallpaper_name": "44",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/44.jpg"
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "Wall",
+      "wallpaper_name": "45",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/45.jpg"
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "Wall",
+      "wallpaper_name": "46",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/46.jpg"
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "Wall",
+      "wallpaper_name": "47",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/47.jpg"
+    },
+    {
+      "wallpaper_id": 48,
+      "category_name": "Wall",
+      "wallpaper_name": "48",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/48.jpg"
+    },
+    {
+      "wallpaper_id": 49,
+      "category_name": "Wall",
+      "wallpaper_name": "49",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/49.jpg"
+    },
+    {
+      "wallpaper_id": 50,
+      "category_name": "Wall",
+      "wallpaper_name": "50",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/50.jpg"
+    },
+    {
+      "wallpaper_id": 51,
+      "category_name": "Wall",
+      "wallpaper_name": "51",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/51.jpg"
+    },
+    {
+      "wallpaper_id": 52,
+      "category_name": "Wall",
+      "wallpaper_name": "52",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/52.jpg"
+    },
+    {
+      "wallpaper_id": 53,
+      "category_name": "Wall",
+      "wallpaper_name": "53",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/53.jpg"
+    },
+    {
+      "wallpaper_id": 54,
+      "category_name": "Wall",
+      "wallpaper_name": "54",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/54.jpg"
+    },
+    {
+      "wallpaper_id": 55,
+      "category_name": "Wall",
+      "wallpaper_name": "55",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/55.jpg"
+    },
+    {
+      "wallpaper_id": 56,
+      "category_name": "Wall",
+      "wallpaper_name": "56",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/56.jpg"
+    },
+	{
+      "wallpaper_id": 57,
+      "category_name": "Wall",
+      "wallpaper_name": "57",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/57.jpg"
+    },
+    {
+      "wallpaper_id": 58,
+      "category_name": "Wall",
+      "wallpaper_name": "58",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/58.jpg"
+    },
+    {
+      "wallpaper_id": 59,
+      "category_name": "Wall",
+      "wallpaper_name": "59",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/59.jpg"
+    },
+    {
+      "wallpaper_id": 60,
+      "category_name": "Wall",
+      "wallpaper_name": "60",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/60.jpg"
+    },
+    {
+      "wallpaper_id": 61,
+      "category_name": "Wall",
+      "wallpaper_name": "61",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/61.jpg"
+    },
+    {
+      "wallpaper_id": 62,
+      "category_name": "Wall",
+      "wallpaper_name": "62",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/62.jpg"
+    },
+    {
+      "wallpaper_id": 63,
+      "category_name": "Wall",
+      "wallpaper_name": "63",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/63.jpg"
+    },
+    {
+      "wallpaper_id": 64,
+      "category_name": "Wall",
+      "wallpaper_name": "64",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/64.jpg"
+    },
+    {
+      "wallpaper_id": 65,
+      "category_name": "Wall",
+      "wallpaper_name": "65",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/65.jpg"
+    },
+    {
+      "wallpaper_id": 66,
+      "category_name": "Wall",
+      "wallpaper_name": "66",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/66.jpg"
+    },
+    {
+      "wallpaper_id": 67,
+      "category_name": "Wall",
+      "wallpaper_name": "67",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/67.jpg"
+    },
+    {
+      "wallpaper_id": 68,
+      "category_name": "Wall",
+      "wallpaper_name": "68",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/68.jpg"
+    },
+    {
+      "wallpaper_id": 69,
+      "category_name": "Wall",
+      "wallpaper_name": "69",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/69.jpg"
+    },
+    {
+      "wallpaper_id": 70,
+      "category_name": "Wall",
+      "wallpaper_name": "70",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/70.jpg"
+    },
+    {
+      "wallpaper_id": 71,
+      "category_name": "Wall",
+      "wallpaper_name": "71",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/71.jpg"
+    },
+    {
+      "wallpaper_id": 72,
+      "category_name": "Wall",
+      "wallpaper_name": "72",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/72.jpg"
+    },
+    {
+      "wallpaper_id": 73,
+      "category_name": "Wall",
+      "wallpaper_name": "73",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/73.jpg"
+    },
+    {
+      "wallpaper_id": 74,
+      "category_name": "Wall",
+      "wallpaper_name": "74",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/74.jpg"
+    },
+    {
+      "wallpaper_id": 75,
+      "category_name": "Wall",
+      "wallpaper_name": "75",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/75.jpg"
+    },
+    {
+      "wallpaper_id": 76,
+      "category_name": "Wall",
+      "wallpaper_name": "76",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/76.jpg"
+    },
+    {
+      "wallpaper_id": 77,
+      "category_name": "Wall",
+      "wallpaper_name": "77",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/77.jpg"
+    },
+    {
+      "wallpaper_id": 78,
+      "category_name": "Wall",
+      "wallpaper_name": "78",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/78.jpg"
+    },
+    {
+      "wallpaper_id": 79,
+      "category_name": "Wall",
+      "wallpaper_name": "79",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/79.jpg"
+    },
+    {
+      "wallpaper_id": 80,
+      "category_name": "Wall",
+      "wallpaper_name": "80",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/80.jpg"
+    },
+    {
+      "wallpaper_id": 81,
+      "category_name": "Wall",
+      "wallpaper_name": "81",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/81.jpg"
+    },
+    {
+      "wallpaper_id": 82,
+      "category_name": "Wall",
+      "wallpaper_name": "82",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/82.jpg"
+    },
+    {
+      "wallpaper_id": 83,
+      "category_name": "Wall",
+      "wallpaper_name": "83",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/83.jpg"
+    },
+    {
+      "wallpaper_id": 84,
+      "category_name": "Wall",
+      "wallpaper_name": "84",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/84.jpg"
+    },
+    {
+      "wallpaper_id": 85,
+      "category_name": "Wall",
+      "wallpaper_name": "85",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/85.jpg"
+    },
+    {
+      "wallpaper_id": 86,
+      "category_name": "Wall",
+      "wallpaper_name": "86",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/86.jpg"
+    },
+    {
+      "wallpaper_id": 87,
+      "category_name": "Wall",
+      "wallpaper_name": "87",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/87.jpg"
+    },
+    {
+      "wallpaper_id": 88,
+      "category_name": "Wall",
+      "wallpaper_name": "88",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/88.jpg"
+    },
+    {
+      "wallpaper_id": 89,
+      "category_name": "Wall",
+      "wallpaper_name": "89",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/89.jpg"
+    },
+    {
+      "wallpaper_id": 90,
+      "category_name": "Wall",
+      "wallpaper_name": "90",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/90.jpg"
+    },
+    {
+      "wallpaper_id": 91,
+      "category_name": "Wall",
+      "wallpaper_name": "91",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/91.jpg"
+    },
+    {
+      "wallpaper_id": 92,
+      "category_name": "Wall",
+      "wallpaper_name": "92",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/92.jpg"
+    },
+    {
+      "wallpaper_id": 93,
+      "category_name": "Wall",
+      "wallpaper_name": "93",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/93.jpg"
+    },
+    {
+      "wallpaper_id": 94,
+      "category_name": "Wall",
+      "wallpaper_name": "94",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/94.jpg"
+    },
+    {
+      "wallpaper_id": 95,
+      "category_name": "Wall",
+      "wallpaper_name": "95",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/95.jpg"
+    },
+    {
+      "wallpaper_id": 96,
+      "category_name": "Wall",
+      "wallpaper_name": "96",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/96.jpg"
+    },
+    {
+      "wallpaper_id": 97,
+      "category_name": "Wall",
+      "wallpaper_name": "97",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/97.jpg"
+    },
+    {
+      "wallpaper_id": 98,
+      "category_name": "Wall",
+      "wallpaper_name": "98",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/98.jpg"
+    },
+    {
+      "wallpaper_id": 99,
+      "category_name": "Wall",
+      "wallpaper_name": "99",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/99.jpg"
+    },
+    {
+      "wallpaper_id": 100,
+      "category_name": "Wall",
+      "wallpaper_name": "100",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/100.jpg"
+    },
+    {
+      "wallpaper_id": 101,
+      "category_name": "Wall",
+      "wallpaper_name": "101",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/101.jpg"
+    },
+    {
+      "wallpaper_id": 102,
+      "category_name": "Wall",
+      "wallpaper_name": "102",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/102.jpg"
+    },
+    {
+      "wallpaper_id": 103,
+      "category_name": "Wall",
+      "wallpaper_name": "103",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/103.jpg"
+    },
+    {
+      "wallpaper_id": 104,
+      "category_name": "Wall",
+      "wallpaper_name": "104",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/104.jpg"
+    },
+    {
+      "wallpaper_id": 105,
+      "category_name": "Wall",
+      "wallpaper_name": "105",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/105.jpg"
+    },
+    {
+      "wallpaper_id": 106,
+      "category_name": "Wall",
+      "wallpaper_name": "106",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/106.jpg"
+    },
+    {
+      "wallpaper_id": 107,
+      "category_name": "Wall",
+      "wallpaper_name": "107",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/107.jpg"
+    },
+    {
+      "wallpaper_id": 108,
+      "category_name": "Wall",
+      "wallpaper_name": "108",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/108.jpg"
+    },
+	{
+      "wallpaper_id": 109,
+      "category_name": "Wall",
+      "wallpaper_name": "109",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/109.jpg"
+    },
+    {
+      "wallpaper_id": 110,
+      "category_name": "Wall",
+      "wallpaper_name": "110",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/110.jpg"
+    },
+    {
+      "wallpaper_id": 111,
+      "category_name": "Wall",
+      "wallpaper_name": "111",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/111.jpg"
+    },
+    {
+      "wallpaper_id": 112,
+      "category_name": "Wall",
+      "wallpaper_name": "112",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/112.jpg"
+    },
+    {
+      "wallpaper_id": 113,
+      "category_name": "Wall",
+      "wallpaper_name": "113",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/113.jpg"
+    },
+    {
+      "wallpaper_id": 114,
+      "category_name": "Wall",
+      "wallpaper_name": "114",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/114.jpg"
+    },
+    {
+      "wallpaper_id": 115,
+      "category_name": "Wall",
+      "wallpaper_name": "115",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/115.jpg"
+    },
+    {
+      "wallpaper_id": 116,
+      "category_name": "Wall",
+      "wallpaper_name": "116",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/116.jpg"
+    },
+    {
+      "wallpaper_id": 117,
+      "category_name": "Wall",
+      "wallpaper_name": "117",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/117.jpg"
+    },
+    {
+      "wallpaper_id": 118,
+      "category_name": "Wall",
+      "wallpaper_name": "118",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/118.jpg"
+    },
+    {
+      "wallpaper_id": 119,
+      "category_name": "Wall",
+      "wallpaper_name": "119",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/119.jpg"
+    },
+    {
+      "wallpaper_id": 120,
+      "category_name": "Wall",
+      "wallpaper_name": "120",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/120.jpg"
+    },
+    {
+      "wallpaper_id": 121,
+      "category_name": "Wall",
+      "wallpaper_name": "121",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/121.jpg"
+    },
+    {
+      "wallpaper_id": 122,
+      "category_name": "Wall",
+      "wallpaper_name": "122",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/122.jpg"
+    },
+    {
+      "wallpaper_id": 123,
+      "category_name": "Wall",
+      "wallpaper_name": "123",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/123.jpg"
+    },
+    {
+      "wallpaper_id": 124,
+      "category_name": "Wall",
+      "wallpaper_name": "124",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/124.jpg"
+    },
+    {
+      "wallpaper_id": 125,
+      "category_name": "Wall",
+      "wallpaper_name": "125",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/125.jpg"
+    },
+    {
+      "wallpaper_id": 126,
+      "category_name": "Wall",
+      "wallpaper_name": "126",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/126.jpg"
+    },
+    {
+      "wallpaper_id": 127,
+      "category_name": "Wall",
+      "wallpaper_name": "127",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/127.jpg"
+    },
+    {
+      "wallpaper_id": 128,
+      "category_name": "Wall",
+      "wallpaper_name": "128",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/128.jpg"
+    },
+    {
+      "wallpaper_id": 129,
+      "category_name": "Wall",
+      "wallpaper_name": "129",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/129.jpg"
+    },
+    {
+      "wallpaper_id": 130,
+      "category_name": "Wall",
+      "wallpaper_name": "130",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/130.jpg"
+    },
+    {
+      "wallpaper_id": 131,
+      "category_name": "Wall",
+      "wallpaper_name": "131",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/131.jpg"
+    },
+    {
+      "wallpaper_id": 132,
+      "category_name": "Wall",
+      "wallpaper_name": "132",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/132.jpg"
+    },
+    {
+      "wallpaper_id": 133,
+      "category_name": "Wall",
+      "wallpaper_name": "133",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/133.jpg"
+    },
+    {
+      "wallpaper_id": 134,
+      "category_name": "Wall",
+      "wallpaper_name": "134",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/134.jpg"
+    },
+    {
+      "wallpaper_id": 135,
+      "category_name": "Wall",
+      "wallpaper_name": "135",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/135.jpg"
+    },
+    {
+      "wallpaper_id": 136,
+      "category_name": "Wall",
+      "wallpaper_name": "136",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/136.jpg"
+    },
+    {
+      "wallpaper_id": 137,
+      "category_name": "Wall",
+      "wallpaper_name": "137",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/137.jpg"
+    },
+    {
+      "wallpaper_id": 138,
+      "category_name": "Wall",
+      "wallpaper_name": "138",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/138.jpg"
+    },
+    {
+      "wallpaper_id": 139,
+      "category_name": "Wall",
+      "wallpaper_name": "139",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/139.jpg"
+    },
+    {
+      "wallpaper_id": 140,
+      "category_name": "Wall",
+      "wallpaper_name": "140",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/140.jpg"
+    },
+    {
+      "wallpaper_id": 141,
+      "category_name": "Wall",
+      "wallpaper_name": "141",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/141.jpg"
+    },
+    {
+      "wallpaper_id": 142,
+      "category_name": "Wall",
+      "wallpaper_name": "142",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/142.jpg"
+    },
+    {
+      "wallpaper_id": 143,
+      "category_name": "Wall",
+      "wallpaper_name": "143",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/143.jpg"
+    },
+    {
+      "wallpaper_id": 144,
+      "category_name": "Wall",
+      "wallpaper_name": "144",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/144.jpg"
+    },
+    {
+      "wallpaper_id": 145,
+      "category_name": "Wall",
+      "wallpaper_name": "145",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/145.jpg"
+    },
+    {
+      "wallpaper_id": 146,
+      "category_name": "Wall",
+      "wallpaper_name": "146",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/146.jpg"
+    },
+    {
+      "wallpaper_id": 147,
+      "category_name": "Wall",
+      "wallpaper_name": "147",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/147.jpg"
+    },
+    {
+      "wallpaper_id": 148,
+      "category_name": "Wall",
+      "wallpaper_name": "148",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/148.jpg"
+    },
+    {
+      "wallpaper_id": 149,
+      "category_name": "Wall",
+      "wallpaper_name": "149",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/149.jpg"
+    },
+    {
+      "wallpaper_id": 150,
+      "category_name": "Wall",
+      "wallpaper_name": "150",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/150.jpg"
+    },
+    {
+      "wallpaper_id": 151,
+      "category_name": "Wall",
+      "wallpaper_name": "151",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/151.jpg"
+    },
+    {
+      "wallpaper_id": 152,
+      "category_name": "Wall",
+      "wallpaper_name": "152",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/152.jpg"
+    },
+    {
+      "wallpaper_id": 153,
+      "category_name": "Wall",
+      "wallpaper_name": "153",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/153.jpg"
+    },
+    {
+      "wallpaper_id": 154,
+      "category_name": "Wall",
+      "wallpaper_name": "154",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/154.jpg"
+    },
+    {
+      "wallpaper_id": 155,
+      "category_name": "Wall",
+      "wallpaper_name": "155",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/155.jpg"
+    },
+    {
+      "wallpaper_id": 156,
+      "category_name": "Wall",
+      "wallpaper_name": "156",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/156.jpg"
+    },
+    {
+      "wallpaper_id": 157,
+      "category_name": "Wall",
+      "wallpaper_name": "157",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/157.jpg"
+    },
+    {
+      "wallpaper_id": 158,
+      "category_name": "Wall",
+      "wallpaper_name": "158",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/158.jpg"
+    },
+    {
+      "wallpaper_id": 159,
+      "category_name": "Wall",
+      "wallpaper_name": "159",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/159.jpg"
+    },
+    {
+      "wallpaper_id": 160,
+      "category_name": "Wall",
+      "wallpaper_name": "160",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/160.jpg"
+    },
+    {
+      "wallpaper_id": 161,
+      "category_name": "Wall",
+      "wallpaper_name": "161",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/161.jpg"
+    },
+    {
+      "wallpaper_id": 162,
+      "category_name": "Wall",
+      "wallpaper_name": "162",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/162.jpg"
+    },
+    {
+      "wallpaper_id": 163,
+      "category_name": "Wall",
+      "wallpaper_name": "163",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/163.jpg"
+    },
+	{
+      "wallpaper_id": 164,
+      "category_name": "Wall",
+      "wallpaper_name": "164",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/164.jpg"
+    },
+    {
+      "wallpaper_id": 165,
+      "category_name": "Wall",
+      "wallpaper_name": "165",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/165.jpg"
+    },
+    {
+      "wallpaper_id": 166,
+      "category_name": "Wall",
+      "wallpaper_name": "166",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/166.jpg"
+    },
+    {
+      "wallpaper_id": 167,
+      "category_name": "Wall",
+      "wallpaper_name": "167",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/167.jpg"
+    },
+    {
+      "wallpaper_id": 168,
+      "category_name": "Wall",
+      "wallpaper_name": "168",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/168.jpg"
+    },
+    {
+      "wallpaper_id": 169,
+      "category_name": "Wall",
+      "wallpaper_name": "169",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/169.jpg"
+    },
+    {
+      "wallpaper_id": 170,
+      "category_name": "Wall",
+      "wallpaper_name": "170",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/170.jpg"
+    },
+    {
+      "wallpaper_id": 171,
+      "category_name": "Wall",
+      "wallpaper_name": "171",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/171.jpg"
+    },
+    {
+      "wallpaper_id": 172,
+      "category_name": "Wall",
+      "wallpaper_name": "172",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/172.jpg"
+    },
+    {
+      "wallpaper_id": 173,
+      "category_name": "Wall",
+      "wallpaper_name": "173",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/173.jpg"
+    },
+    {
+      "wallpaper_id": 174,
+      "category_name": "Wall",
+      "wallpaper_name": "174",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/174.jpg"
+    },
+    {
+      "wallpaper_id": 175,
+      "category_name": "Wall",
+      "wallpaper_name": "175",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/175.jpg"
+    },
+    {
+      "wallpaper_id": 176,
+      "category_name": "Wall",
+      "wallpaper_name": "176",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/176.jpg"
+    },
+    {
+      "wallpaper_id": 177,
+      "category_name": "Wall",
+      "wallpaper_name": "177",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/177.jpg"
+    },
+    {
+      "wallpaper_id": 178,
+      "category_name": "Wall",
+      "wallpaper_name": "178",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/178.jpg"
+    },
+    {
+      "wallpaper_id": 179,
+      "category_name": "Wall",
+      "wallpaper_name": "179",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/179.jpg"
+    },
+    {
+      "wallpaper_id": 180,
+      "category_name": "Wall",
+      "wallpaper_name": "180",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/180.jpg"
+    },
+    {
+      "wallpaper_id": 181,
+      "category_name": "Wall",
+      "wallpaper_name": "181",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/181.jpg"
+    },
+    {
+      "wallpaper_id": 182,
+      "category_name": "Wall",
+      "wallpaper_name": "182",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/182.jpg"
+    },
+    {
+      "wallpaper_id": 183,
+      "category_name": "Wall",
+      "wallpaper_name": "183",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/183.jpg"
+    },
+    {
+      "wallpaper_id": 184,
+      "category_name": "Wall",
+      "wallpaper_name": "184",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/184.jpg"
+    },
+    {
+      "wallpaper_id": 185,
+      "category_name": "Wall",
+      "wallpaper_name": "185",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/185.jpg"
+    },
+    {
+      "wallpaper_id": 186,
+      "category_name": "Wall",
+      "wallpaper_name": "186",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/186.jpg"
+    },
+	{
+      "wallpaper_id": 187,
+      "category_name": "Wall",
+      "wallpaper_name": "187",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/187.jpg"
+    },
+    {
+      "wallpaper_id": 188,
+      "category_name": "Wall",
+      "wallpaper_name": "188",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/188.jpg"
+    },
+    {
+      "wallpaper_id": 189,
+      "category_name": "Wall",
+      "wallpaper_name": "189",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/189.jpg"
+    },
+    {
+      "wallpaper_id": 190,
+      "category_name": "Wall",
+      "wallpaper_name": "190",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/190.jpg"
+    },
+    {
+      "wallpaper_id": 191,
+      "category_name": "Wall",
+      "wallpaper_name": "191",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/191.jpg"
+    },
+    {
+      "wallpaper_id": 192,
+      "category_name": "Wall",
+      "wallpaper_name": "192",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/192.jpg"
+    },
+    {
+      "wallpaper_id": 193,
+      "category_name": "Wall",
+      "wallpaper_name": "193",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/193.jpg"
+    },
+    {
+      "wallpaper_id": 194,
+      "category_name": "Wall",
+      "wallpaper_name": "194",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/194.jpg"
+    },
+    {
+	"wallpaper_id": 195,
+      "category_name": "Wall",
+      "wallpaper_name": "195",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/195.jpg"
+    },
+    {
+      "wallpaper_id": 196,
+      "category_name": "Wall",
+      "wallpaper_name": "196",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/196.jpg"
+    },
+    {
+      "wallpaper_id": 197,
+      "category_name": "Wall",
+      "wallpaper_name": "197",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/197.jpg"
+    },
+    {
+      "wallpaper_id": 198,
+      "category_name": "Wall",
+      "wallpaper_name": "198",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/198.jpg"
+    },
+    {
+      "wallpaper_id": 199,
+      "category_name": "Wall",
+      "wallpaper_name": "199",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/199.jpg"
+    },
+    {
+      "wallpaper_id": 200,
+      "category_name": "Wall",
+      "wallpaper_name": "200",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/massivewarfare/200.jpg"
+    }   
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
