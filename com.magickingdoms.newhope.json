@@ -2,13 +2,13 @@
   "apps": [
     {
       "status": true,
-      "one_signal": true,
+      "one_signal": false,
       "featured_categories": "Wall",
       "show_wallpaper_name": false,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
+      "enable_exit_dialog": false,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
@@ -18,17 +18,22 @@
   ],
   "adsterra": [
     {
-      "banner": "https://www.cpmrevenuegate.com/kaz76010?key=f01935aeb92cfd13148c8bde647cfdad",
-      "native": "https://www.cpmrevenuegate.com/kaz76010?key=f01935aeb92cfd13148c8bde647cfdad",
-      "inter": "https://www.cpmrevenuegate.com/kaz76010?key=f01935aeb92cfd13148c8bde647cfdad",
+      "main_ads":"cpa",
+      "adsterra_banner": "https://www.cpmrevenuegate.com/d14qp0jb3?key=7b57a228760f4b858d0822a91272c32c",
+      "adsterra_native_ad": "https://www.cpmrevenuegate.com/d14qp0jb3?key=7b57a228760f4b858d0822a91272c32c",
+      "adsterra_inter": "https://www.cpmrevenuegate.com/qutfrfpkgv?key=b2d6ec62b866a1adc35ef9947adb39a1",
+      "cpa_banner": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/01.jpg",
+      "cpa_native_ad": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/01.jpg",
+      "cpa_inter": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/01.jpg",
+      "cpa_url": "https://lavelove.com/64DDD79c?aid=fghxadzkgg&kid=gpakxzbdfdg",
       "interval_native": 5,
       "interval_inter": 2
     }
   ],
   "ads": [
     {
-      "ad_status": true,
-      "main_ad": "adsterra",
+      "ad_status": false,
+      "main_ad": "monetag",
       "backup_ad": "0",
       "startapp_app_id": "0",
       "unity_game_id": "",
