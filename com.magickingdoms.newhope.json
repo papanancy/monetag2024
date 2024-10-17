@@ -18,7 +18,7 @@
   ],
   "adsterra": [
     {
-      "main_ads":"adsterra",
+      "main_ads": "cpa",
       "adsterra_banner": "https://www.cpmrevenuegate.com/d14qp0jb3?key=7b57a228760f4b858d0822a91272c32c",
       "adsterra_native_ad": "https://www.cpmrevenuegate.com/d14qp0jb3?key=7b57a228760f4b858d0822a91272c32c",
       "adsterra_inter": "https://www.cpmrevenuegate.com/qutfrfpkgv?key=b2d6ec62b866a1adc35ef9947adb39a1",
@@ -32,7 +32,7 @@
   ],
   "ads": [
     {
-      "ad_status": true,
+      "ad_status": false,
       "main_ad": "adsterra",
       "backup_ad": "0",
       "startapp_app_id": "0",
@@ -465,7 +465,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/56.jpg"
     },
-	{
+    {
       "wallpaper_id": 57,
       "category_name": "Wall",
       "wallpaper_name": "57",
@@ -829,7 +829,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/108.jpg"
     },
-	{
+    {
       "wallpaper_id": 109,
       "category_name": "Wall",
       "wallpaper_name": "109",
@@ -1214,7 +1214,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/163.jpg"
     },
-	{
+    {
       "wallpaper_id": 164,
       "category_name": "Wall",
       "wallpaper_name": "164",
@@ -1375,7 +1375,7 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/186.jpg"
     },
-	{
+    {
       "wallpaper_id": 187,
       "category_name": "Wall",
       "wallpaper_name": "187",
@@ -1432,7 +1432,7 @@
       "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/194.jpg"
     },
     {
-	"wallpaper_id": 195,
+      "wallpaper_id": 195,
       "category_name": "Wall",
       "wallpaper_name": "195",
       "wallpaper_thumbnail": "",
@@ -1472,7 +1472,7 @@
       "wallpaper_name": "200",
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://raw.githubusercontent.com/papanancy/monetag2024/main/magickingdom/200.jpg"
-    }   
+    }
   ],
   "more_apps": [
     {
