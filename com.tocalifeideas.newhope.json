@@ -13,15 +13,20 @@
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
       "redirect_url": "",
-      "privacy_policy_url": "https://www.termsfeed.com/live/62199bbf-1e2d-494e-a945-1e0ec9deeb65"
+      "privacy_policy_url": "https://kestakestemedia.blogspot.com/2024/10/wallpaper.html"
     }
   ],
   "adsterra": [
     {
-      "banner": "",
-      "native": "",
-      "inter": "",
-      "interval_native": 4,
+      "main_ads": "adsterra",
+      "adsterra_banner": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
+      "adsterra_native_ad": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
+      "adsterra_inter": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
+      "cpa_banner": "",
+      "cpa_native_ad": "",
+      "cpa_inter": "",
+      "cpa_url": "",
+      "interval_native": 5,
       "interval_inter": 2
     }
   ],
@@ -41,7 +46,7 @@
       "monetag_app_open_id": "",
       "monetag_app_id": "",
       "monetag_token_id": "",
-      "interstitial_ad_interval": 90,
+      "interstitial_ad_interval": 2,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
