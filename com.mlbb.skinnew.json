@@ -27,7 +27,7 @@
       "cpa_inter": "",
       "cpa_url": "",
       "interval_native": 5,
-      "interval_inter": 2
+      "interval_inter": 200
     }
   ],
   "ads": [
