@@ -1,5 +1,5 @@
 {
-"apps": [
+  "apps": [
     {
       "status": true,
       "one_signal": false,
@@ -23,9 +23,9 @@
       "adsterra_native_ad": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
       "adsterra_inter": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
       "cpa_banner": "",
-      "cpa_native_ad": "",
-      "cpa_inter": "",
-      "cpa_url": "",
+      "cpa_native_ad": "https://raw.githubusercontent.com/papanancy/Atera/main/plagueinc/01.jpg",
+      "cpa_inter": "https://raw.githubusercontent.com/papanancy/Atera/main/plagueinc/01.jpg",
+      "cpa_url": "https://wowow99.blogspot.com",
       "interval_native": 5,
       "interval_inter": 200
     }
