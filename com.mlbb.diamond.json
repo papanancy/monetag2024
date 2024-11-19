@@ -2,13 +2,13 @@
 "apps": [
     {
       "status": true,
-      "one_signal": false,
+      "one_signal": true,
       "featured_categories": "Wall",
       "show_wallpaper_name": false,
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": false,
@@ -18,22 +18,14 @@
   ],
   "adsterra": [
     {
-      "main_ads": "adsterra",
-      "adsterra_banner": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
-      "adsterra_native_ad": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
-      "adsterra_inter": "https://recordfunny.com/i76am6syn?key=62511e733f3cad6b6104de781ceb7631",
-      "cpa_banner": "",
-      "cpa_native_ad": "",
-      "cpa_inter": "",
-      "cpa_url": "",
-      "interval_native": 5,
-      "interval_inter": 200
+      "url": "https://prosecutorremarkablegodforsaken.com/kx2sz0a28v?key=05f5144a4f28d38dc5d0143c6b297611",
+      "interval": 2
     }
   ],
   "ads": [
     {
-      "ad_status": false,
-      "main_ad": "monetag",
+      "ad_status": true,
+      "main_ad": "adsterra",
       "backup_ad": "0",
       "startapp_app_id": "0",
       "unity_game_id": "",
